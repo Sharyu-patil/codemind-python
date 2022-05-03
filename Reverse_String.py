@@ -1,4 +1,2 @@
-s=str(input())
-x=s.split()
-y=" ".join(reversed(x))
-print(y)
+n=input()
+print(n[::-1])
